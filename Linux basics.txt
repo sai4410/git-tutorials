@@ -1,0 +1,35 @@
+Unix Characteristics:
+---------------------
+1.freeware
+2.Open source
+3.foss
+4.Multiuser OS
+5.Multitasking
+6.Linux is one flavour of unix
+7.it is both gui and cui
+
+To find all flavours of unix:
+-----------------------------
+ distrowatch.com
+
+examples of Unix flavours: 
+--------------------------
+1.Linux
+2.AIX
+3.Sunsolaris
+4.Opensesu
+
+
+	Unix ---- 1 Shell
+		  2 Kernal
+
+ 	User ----> Shell --> Kernal --> Hardware
+ To create a directory:
+======================
+
+
+
+
+
+
+
